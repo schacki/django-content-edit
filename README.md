@@ -42,4 +42,4 @@ Controls, whether a new content objects is created automatically, when the speci
 Controls, whether add and change permissions of the current user are checked in the template tag; default: False
 
 - CONTENT_EDIT_ADMIN_WYSIWYG
-Defines, how the content is repesented in the admin for editing. Either via a WYSIWIG editor or via a normal Textarea Widget; default: True
+Defines, how the content is repesented in the admin for editing. Either via a WYSIWIG editor or via a normal Textarea Widget; default: Truetest
